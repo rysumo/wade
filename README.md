@@ -1,3 +1,5 @@
+![Logo Wade](imgs/logo-wade.webp)
+
 # Sobre o Projeto
 
 A **Wade Brasil** nasceu para unir tecnologia, sustentabilidade e desenvolvimento humano em um modelo de negócios preparado para o futuro. O grupo é composto por **três verticais distintas** que compartilham o mesmo DNA sustentável:
